@@ -113,11 +113,11 @@
 
 			<div class="fp-header-img text-center">
 				<a href="#">
-					<img class="img-responsive center-block wow zoomIn" src="/wp-content/uploads/2016/06/front-pg-header-img-4.png" alt="" data-wow-duration="2s" data-wow-delay="0s">
+					<img class="img-responsive center-block wow zoomIn" src="/wp-content/uploads/2016/06/front-pg-header-img-shorter.png" alt="" data-wow-duration="2s" data-wow-delay="0s">
 				</a>
 				<aside id="top-header-btn-holder"  class="top-btn-holder wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0s">
 					
-					<a href="#"  class="btn btn-primary btn-lg">Click Here for my FREE<br> Social Media Marketing Guide</a>
+					<a href="#"  class="btn btn-primary btn-lg hide">Click Here for my FREE<br> Social Media Marketing Guide</a>
 					
 				</aside>
 			</div>		

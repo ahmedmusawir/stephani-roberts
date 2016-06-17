@@ -6098,7 +6098,9 @@ body {
       #fp-block-4 .block-wrap .social-right .text-block h3.my-hand {
         color: #497F8C; }
       #fp-block-4 .block-wrap .social-right .text-block h1 {
-        font-size: 5.5rem;
+        font-size: 4rem;
+        font-style: italic;
+        font-weight: 700;
         padding-bottom: 2rem;
         color: #F15D61; }
         @media (max-width: 650px) {

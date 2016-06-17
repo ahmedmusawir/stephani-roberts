@@ -104,7 +104,7 @@ get_header(); ?>
 						<a class="btn btn-primary btn-lg" href="#">REACH OUT</a>						
 					</div>					
 
-					<h1>I can’t wait to talk to you :-)</h1>
+					<h1>I can’t wait to talk to you <i class="fa fa-pagelines" aria-hidden="true"></i></h1>
 				
 					
 				</div>
